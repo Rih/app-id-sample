@@ -1,0 +1,4 @@
+{
+  "clientId": "e79819f1-e829-450a-9a2f-9f28711a160c",
+  "discoveryEndpoint": "https://us-south.appid.cloud.ibm.com/oauth/v4/713cca29-86d9-4b70-9be2-a39cd12a3e24/.well-known/openid-configuration"
+}
